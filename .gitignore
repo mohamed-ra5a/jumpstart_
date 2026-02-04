@@ -1,16 +1,12 @@
 # Godot 4+ specific ignores
 .godot/
-.nomedia
-
-# Godot-specific ignores
+/android/
 .import/
-export.cfg
-export_credentials.cfg
-
-# Imported translations (automatically generated from CSV files)
-*.translation
-
-# Mono-specific ignores
+.export/
+.export_presets.cfg
+.godot/
 .mono/
-data_*/
-mono_crash.*.json
+.DS_Store
+Thumbs.db
+*.tmp
+

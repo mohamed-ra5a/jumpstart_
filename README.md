@@ -3,16 +3,13 @@
 JumpStart is a 2D platformer game where the player collects coins, avoids enemies, and tries to reach the end of the level safely.
 
 ## Gameplay
-The player controls a character in a platform environment. The goal is to collect as many coins as possible while avoiding enemies and falling into holes. The difficulty increases as the player progresses.
+the main aim of the player is reaching to the ending point safely, without touching one of these dangerous enemies or falling in holes. 
 
-## Controls
-- Move Right: D / →
-- Move Left: A / ←
-- Jump: Space, w
+
 
 ## Features
-- Coin collection system
-- Enemy obstacles
+- collecting coins 
+- Enemy avoiding
 - Increasing difficulty
 
 ## Screenshot
